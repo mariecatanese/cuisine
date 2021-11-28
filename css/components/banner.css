@@ -1,0 +1,10 @@
+.banner{
+	background-image: linear-gradient(40deg, rgba(255,255,255,1) 0%, rgba(121,9,96,0.10734716249781162) 100%, rgba(255,0,100,0.14096060787596287) 100%), url('../../images/aec.png');
+	background-size: cover;
+	background-position: center;
+	padding: 1px 0;
+}
+
+.banner p {
+	margin-bottom: 50px;
+}
